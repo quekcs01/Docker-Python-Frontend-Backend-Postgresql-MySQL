@@ -10,3 +10,4 @@ click==8.1.7
 atomicwrites==1.4.1
 joblib==1.3.2
 pytest==8.0.0
+pytestqqq==8.0.0
